@@ -1,0 +1,2 @@
+# JavaAssignment
+Some assignments examples
